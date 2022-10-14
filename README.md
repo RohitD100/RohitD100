@@ -1,6 +1,10 @@
 ![](https://github.com/RohitD100/RohitD100/blob/main/ROHIT%20DORAGE.jpg)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Efficient full stack web developer, having problem-solving ability and proficiency in
+MERN Stack. A good learner and always excited to learn new things in terms of
+technology. Skilled in teamwork, collaboration, time management, and other
+interpersonal skills. Looking for an opportunity to work in a challenging position for a
+technology-driven organization.</h3>
 <img align = "right" alt ="coding" width="400" height="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitD100&label=Profile%20views&color=0e75b6&style=flat" alt="RohitD100" /> </p>
 
