@@ -1,3 +1,4 @@
+![](https://github.com/RohitD100/RohitD100/blob/main/ROHIT%20DORAGE.jpg)
 <h1 align="center">Hi 👋, I'm Rohit Dorage</h1>
 <p align="center">Efficient full stack web developer, having problem-solving ability and
 proficiency in MERN Stack. A good learner and always excited to learn new
