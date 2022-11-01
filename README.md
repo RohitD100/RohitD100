@@ -34,7 +34,10 @@ work in a challenging position for a technology-driven organization.</p>
   </p>
 <h2 align="center"> 📄 Know about my experiences</h2>
 
-Click here for my [Resume](https://drive.google.com/file/d/1ku4HY_QYo-LBAcH1QAkH4DrbhQMqD0gs/view "Title")
+Click here for my [Resume](https://drive.google.com/file/d/1fEflhyfOs3yR0WSIJTYs8rY_zAIbH2kn/view?usp=sharing "Title")
+   <br/>
+    <br/>
+Click here for my [Portfolio](https://rohitd100.github.io/ "Title")
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
