@@ -1,10 +1,17 @@
 ![](https://github.com/RohitD100/RohitD100/blob/main/ROHIT%20DORAGE.jpg)
 <h1 align="center">Hi 👋, I'm Rohit Dorage</h1>
+
+<p align="center">
+<img  src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=blue&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+Mern+Developer;Always+Learning+New+Things' alt="Typing SVG"/>
+</p>
+   
 <p align="center">Efficient full stack web developer, having problem-solving ability and
 proficiency in MERN Stack. A good learner and always excited to learn new
 things in terms of technology. Skilled in teamwork, collaboration, time
 management, and other interpersonal skills. Looking for an opportunity to
 work in a challenging position for a technology-driven organization.</p>
+
+<br/>
 <div align="center"><img src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png" width=700 />
    <br><br>
   
