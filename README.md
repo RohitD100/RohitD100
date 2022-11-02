@@ -2,7 +2,7 @@
     <img  src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=blue&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+Mern+Developer;Always+Learning+New+Things' alt="Typing SVG"/>
    
    <img 
-src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75cfac4a7b496c85492a0996e5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39312f36622f31632f39313662316330623937383861643837623963636466633731626264616466332e676966" width="70%" height="340px"/>
+src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75cfac4a7b496c85492a0996e5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39312f36622f31632f39313662316330623937383861643837623963636466633731626264616466332e676966" width="70%" height="370px"/>
    
   
 </h1>
@@ -23,7 +23,7 @@ work in a challenging position for a technology-driven organization.</p>
 <div align="center"><img src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png" width=700 />
    <br><br>
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RohitD100&theme=dracula&hide_border=true)
+
 
 
 <!-- <p align="center"> <a href="https://twitter.com/KhakalShreyas" target="blank"><img src="https://img.shields.io/twitter/follow/KhakalShreyas?logo=twitter&style=for-the-badge" alt="KhakalShreyas" /></a> </p> -->
@@ -64,7 +64,12 @@ Click here for my [Portfolio](https://rohitd100.github.io/ "Title")
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitD100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitD100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
+     
 
 ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=RohitD100&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
+<br/>
+<br/>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RohitD100&theme=dracula&hide_border=true)
+
