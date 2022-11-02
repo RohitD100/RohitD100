@@ -49,3 +49,7 @@ Click here for my [Portfolio](https://rohitd100.github.io/ "Title")
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitD100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitD100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=RohitD100&theme=radical&no-frame=false&no-bg=false&margin-w=4)
