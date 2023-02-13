@@ -50,7 +50,7 @@ work in a challenging position for a technology-driven organization.</p>
 
 <h2 align="center">Connect with me:</h2>
     
-Click here for my [Resume](https://drive.google.com/file/d/1fEflhyfOs3yR0WSIJTYs8rY_zAIbH2kn/view?usp=sharing "Title")
+Click here for my [Resume](https://drive.google.com/file/d/1kxAym4tYcxLkXkhdj3q8SVq1GcfePkvY/view?usp=sharing "Title")
 <br/>
 <br/>
 Click here for my [Portfolio](https://rohitd100.github.io/ "Title")
