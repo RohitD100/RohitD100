@@ -1,10 +1,3 @@
-<h1 align='center'>
-    <img  src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=blue&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+MERN+Developer;Always+Learning+New+Things' alt="Typing SVG"/>
-
-   
-  
-</h1>
-
 <h1 align="center">Hi 👋, I'm Rohit Dorage</h1>
 
 <p align="center">
@@ -74,5 +67,5 @@ Click here for my [Linkdin Account](https://www.linkedin.com/in/rohitdorage/ "Ti
 <br/>
 <br/>
 <br/>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RohitD100&theme=dracula&hide_border=true)
+
 
